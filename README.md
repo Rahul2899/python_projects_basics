@@ -67,7 +67,7 @@ This repository contains a collection of basic Python projects designed to enhan
 ---
 
 ## Requirements:
-- Python 3.x
+- Python 3.10
 - Required libraries:
   - `random`
   - `opencv-python`
