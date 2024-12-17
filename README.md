@@ -85,7 +85,7 @@ This repository contains a collection of basic Python projects designed to enhan
 
 
 
-###6 Password Strength Checker
+### 6 Password Strength Checker
 
 ### Description 📄  
 This project is a **Password Strength Checker** implemented in Python. It securely checks the strength of a user-provided password against predefined criteria and provides suggestions for improvement if the password is weak.
